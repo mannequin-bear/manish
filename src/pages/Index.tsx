@@ -28,9 +28,9 @@ const DATA = {
     bio: "A 3rd Year Student of Mechanical Engineering at IIT Kharagpur, looking eagerly to contribute in core roles. Currently playing around in Robotics (Controls) and Simulations, likes to play around with ML, DL too.",
     highlights: [
       "Currently Learning ROS2 and related libraries",
-      "Experience in Python, Numpy, Pandas, Pytorch, Solidworks, Ansys Simulations",
+      "Experience in Python, Numpy, Pandas, Pytorch, Solidworks, Ansys Simulations, Photoshop, Priemere Pro",
       "Governer at Prasthanam: Technology Dramatics Society",
-      "Passionate about Photography, Dramatics and Fitness",
+      "Passionate about Photography, Dramatics, Graphic Design and Fitness",
     ],
   },
 
