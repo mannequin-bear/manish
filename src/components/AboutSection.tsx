@@ -19,12 +19,12 @@ const FEATURES = [
   {
     icon: Palette,
     title: "Design Eye",
-    description: "Creating beautiful, intuitive user interfaces.",
+    description: "Creating beautiful and Interesting Desings",
   },
   {
     icon: Zap,
     title: "Performance",
-    description: "Optimizing for speed and user experience.",
+    description: "Optimizing myself for best performance.",
   },
   {
     icon: Users,
