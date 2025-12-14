@@ -48,7 +48,7 @@ export function AboutSection({ data }: AboutSectionProps) {
             About Me
           </span>
           <h2 className="text-3xl md:text-4xl font-bold mt-2">
-            Passionate Developer
+            Mechanical Engineer
           </h2>
         </motion.div>
 
