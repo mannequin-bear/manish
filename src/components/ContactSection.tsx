@@ -13,17 +13,17 @@ export function ContactSection() {
       >
         <div className="flex items-center gap-2">
           <User size={16} className="text-primary" />
-          <span className="text-muted-foreground">Alex Chen</span>
+          <span className="text-muted-foreground">Rasamalla Manish</span>
         </div>
         <span className="text-border">|</span>
         <div className="flex items-center gap-2">
           <Mail size={16} className="text-primary" />
           <a 
-            href="mailto:alex.chen@example.com" 
+            href="mailto:hirmanish04@gmail.com" 
             className="text-muted-foreground hover:text-primary transition-colors"
           >
-            alex.chen@example.com
-          </a>
+            hirmanish04@gmail.com
+          </a
         </div>
       </motion.div>
     </section>
