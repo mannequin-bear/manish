@@ -3,18 +3,17 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import { TeacupMascot } from "./TeacupMascot";
 
-// 1. Changed to simple IDs instead of full paths
+// Updated: "Contact" is removed from this list
 const NAV_LINKS = [
   { label: "About", id: "about" },
   { label: "Projects", id: "projects" },
   { label: "Blog", id: "blog" },
-  { label: "Contact", id: "contact" },
 ];
 
 export function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
-  // 2. Helper function to handle smooth scrolling
+  // Helper function to handle smooth scrolling
   const scrollToSection = (id: string) => {
     setIsOpen(false); // Close mobile menu if open
     const element = document.getElementById(id);
@@ -52,6 +51,7 @@ export function Navbar() {
               </button>
             ))}
             
+            {/* The "Get in Touch" button is still here */}
             <button
               onClick={() => scrollToSection('contact')}
               className="px-4 py-2 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 transition-colors"
