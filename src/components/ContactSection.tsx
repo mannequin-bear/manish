@@ -23,7 +23,7 @@ export function ContactSection() {
             className="text-muted-foreground hover:text-primary transition-colors"
           >
             hirmanish04@gmail.com
-          </a
+          </a>
         </div>
       </motion.div>
     </section>
