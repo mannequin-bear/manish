@@ -1,16 +1,16 @@
 const TECH_STACK = [
-  "React",
-  "TypeScript",
-  "Next.js",
-  "Tailwind CSS",
-  "Node.js",
-  "GraphQL",
-  "PostgreSQL",
-  "AWS",
-  "Docker",
-  "Figma",
+  "Python",
+  "ROS2",
+  "C++",
+  "Numpy",
+  "Pandas",
+  "PyTorch",
   "Git",
-  "Framer Motion",
+  "Ansys",
+  "Solidworks",
+  "Photoshop",
+  "Figma",
+  "Lightroom",
 ];
 
 export function TechMarquee() {
