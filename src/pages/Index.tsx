@@ -13,24 +13,24 @@ import { RailwayDivider } from "@/components/RailwayDivider";
 // ============================================
 const DATA = {
   hero: {
-    name: "Alex Chen",
+    name: "Rasamalla Manish",
     tagline:
-      "I craft beautiful, performant web experiences with modern technologies. Turning complex problems into elegant, user-friendly solutions.",
-    role: "Frontend Developer",
+      "",
+    role: "Mechanical Engineer",
     socials: {
-      github: "https://github.com",
-      linkedin: "https://linkedin.com",
+      github: "https://github.com/mannequin-bear",
+      linkedin: "https://www.linkedin.com/in/manish-rasamalla-166275300/",
       twitter: "https://twitter.com",
     },
   },
 
   about: {
-    bio: "With over 5 years of experience in web development, I specialize in building modern, responsive applications using React and TypeScript. I'm passionate about creating intuitive user interfaces that not only look great but also deliver exceptional performance and accessibility.",
+    bio: "A 3rd Year Student of Mechanical Engineering at IIT Kharagpur, looking eagerly to contribute in core roles. Currently playing around in Robotics (Controls) and Simulations, likes to play around with ML, DL too.",
     highlights: [
-      "5+ years of professional development experience",
-      "Led frontend architecture for 3 enterprise applications",
-      "Open source contributor and tech community speaker",
-      "Expertise in React, TypeScript, and modern CSS",
+      "Currently Learning ROS2 and related libraries",
+      "Experience in Python, Numpy, Pandas, Pytorch, Solidworks, Ansys Simulations",
+      "Governer at Prasthanam: Technology Dramatics Society",
+      "Passionate about Photography, Dramatics and Fitness",
     ],
   },
 
