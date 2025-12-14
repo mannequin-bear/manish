@@ -4,10 +4,10 @@ import { Menu, X } from "lucide-react";
 import { TeacupMascot } from "./TeacupMascot";
 
 const NAV_LINKS = [
-  { label: "About", href: "#about" },
-  { label: "Projects", href: "#projects" },
-  { label: "Blog", href: "#blog" },
-  { label: "Contact", href: "#contact" },
+  { label: "About", href: "manish/#about" },
+  { label: "Projects", href: "manish/#projects" },
+  { label: "Blog", href: "manish/#blog" },
+  { label: "Contact", href: "manish/#contact" },
 ];
 
 export function Navbar() {
